@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pharmadelivery.app-mergeDebugResources-68:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\skshu\\.gradle\\caches\\9.0-milestone-1\\transforms\\a45e6164b206285ec1884bb8fa44a285\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
